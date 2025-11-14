@@ -1,111 +1,3 @@
-# Session 1
-
-Our ship name: `Shadow of Intent`
-
-Hutts associates are buying slaves from pirates
-
-`YV-865`:
-
-Strain: 36 Hull: 50
-Weapons Forward mounted twin laser cannon
-Rear mounted Grapple (People)
-
-`48 Slaves`
-
-2 Slaves (Grabbing the boxes) 
-
-`Ship inventory:`
-```
-Raja Farms
-25 Stems
-Back to tank repair parts
-Bandages, Sutures, Gauze
-6 Med pack
-12 Nacolepse Stems (Narcan) (All mine)
-```
-
-Pirincess layla look alike: `Kaitlyn`.
-
-# Session 2:
-
-- Moved all the named characters over to our ship
-
-Hutt ship:
-`YV-666` Light freighter
-
-8 people
-`Zoobo` The Capitan. `Pilot`, `Copilot`, `5 passangers`.
-
-
-`40,000` Credits Spilt all over the slaver ship
-`20,000` Credits on the other ship
-
-1 Nikto and his name is `Zoobo`
-Murdered 2 people
-
-Battle Result:
-
-Made a deal with `Zoobo` to let him go and got the extra money. 6 Nikto still live.
-
-Gardula The Hutt is who we are stealing from.
-
-`m` Is the pilot and is the teenage Angus and I guess is the pilot of `YV-865`
-
-We dropped off the slaves of Ryloth, the homeworld of the Twilek and has Rebel Simpithizers
-- Majority of the slaves are Twiloks.
-
-We have `58,800` Credits after the battle
-Also `1200` Credits has been lost in the vents of the ship
-
-Share = [58,800 - Ship(s?)] / 6
-
-`5 XP` !!!!!!!!
-
-Just a cool ship I want:
-`Raider II-class Corvette`
-`CR90 Corvette`
-
-# Session 3:
-
-Ryloth. Is tidially locked. 
-Nabbat (Under active conflict)
-Lessu (Capital) Under imperal control.
-
-Manifest
-Last ship left Zageria: 
-
-Mira - The Ship Inspector who's cool with freeing slaves.
-
-The supplies.
-```
-Raja Farms
-25 Stems
-Back to tank repair parts
-Bandages, Sutures, Gauze
-6 Med pack
-12 Nacolepse Stems (Narcan) (All mine)
-```
-
-Keeping
-```
-25 Stems
-Back to tank repair parts
-Bandages, Sutures, Gauze
-2 Med pack
-4 Nacolepse Stems (Narcan) (All mine)
-```
-Used 2 Nacolepse on some random strange. High on the SPCIE
-- Dune Rats. On the hit list.
-
-Smuggler from this particular warehouse.
-
-6 Dune
-
-# Session 4:
-
-
-
-
 # Some Characters
 
 ## Kaitlyn
@@ -117,6 +9,14 @@ Smuggler from this particular warehouse.
 ## Gardula The Hutt
 
 Tried buying Kaityln. Rival of Jabba The Hutt
+
+Grace Holdum. Was potentially assassinated by empire the Senator of Aldaran.
+
+## Director Damien Cross of the ISB
+
+- Murder BeeBo
+- Owned the spice mine on Rayloth
+- Operation Leach Vine (The mines on Rayloth)
 
 # Our stats:
 
@@ -138,45 +38,77 @@ Def: 1,1,1,2
 
 Fuel for 18 day since last paid
 
-# Monies
+# Inventory:
+
+`Ship inventory:`
+```
+24 Stems
+Bacta to tank repair parts
+4 Nacolepse Stems (Narcan)
+```
+
+2 Bacta to tank
+1 Oil bath
 
 ## BeeBo:
+
+When he dies he blows up like a frag granade
 ```
-16,084
+Credit 12,334
 (-250/Month for lab assistance)
 ```
 
 ## Norrin:
+
 ```
 16,033
 (-250/Day for lab assistance)
 ```
 
 ## Edwards:
+
 ```
 16,052
+Trying to figure out what I want
+-200 Bicks barnum loaylty card
+-75
+Armor:
+-3,000 N-57 Armor https://star-wars-rpg-ffg.fandom.com/wiki/Category:Armor
+-1,000 Integrated Scanner
+-1,500 Range Finder
+-3,000 Targeting System
+-1,000 Vacuum Sealed
+-1,000 Hands-Free Weapon System
+
+Weapons Upgrades:
+-500 Custom Grip
+-1750 Augmented Spin Barrel
+-2000 Multi-Optic Sight
+-500 Laser Sight
 ```
 
 ## Jean Etsin Gioum:
+
 ```
-16,020
+7,020
 ```
 
 ## Hon Hon Zapa
+
 ```
-16,205
+11,945
 ```
 
-## Trecket:
+## Trekik:
+
 ```
-16,000
+16,000 (He's tracking his own)
 ```
 
 ## Ship:
 ```
 13,800 
 ```
-
 
 ## M:
 ```
@@ -185,25 +117,39 @@ Fuel for 18 day since last paid
 
 # Useful resources:
 
-Space combat:
-https://www.reddit.com/r/swrpg/comments/nc16ad/here_is_a_simple_space_combat_cheat_sheet_i_made/
+## Combat
+
+Range Bands:
+https://sw-eote-srd.vercel.app/personal/combat-encounters/range-bands#4-long-range
 
 Critical injuries:
 https://sw-eote-srd.vercel.app/personal/status-recovery/critical-injuries 
 
-Item Qualties (PG 155):
-https://star-wars-rpg-ffg.fandom.com/wiki/Item_Qualities
-
 Defense:
 https://sw-eote-srd.vercel.app/personal/combat-encounters/defense
 
-SHIPS!
+## Space Combat
+
+Space combat:
+https://www.reddit.com/r/swrpg/comments/nc16ad/here_is_a_simple_space_combat_cheat_sheet_i_made/
+
+Ships!
 https://online.anyflip.com/dtebm/dzop/mobile/ 
+
+## Others
+
+Item Qualties (PG 155):
+https://star-wars-rpg-ffg.fandom.com/wiki/Item_Qualities
+
 
 # House keeping
 
 ## Ecounter ending:
 After a discipline or cool check. Heal strain = Successes
+
+# Other random notes:
+
+Lockpicking tends to skullduggery but can be computers
 
 # Running Notes:
 
@@ -211,7 +157,6 @@ After a discipline or cool check. Heal strain = Successes
 ## Edwards:
 
 ### Strain
-Max:    `9`     Current:    `6`
+Max:    `11 -1`     Current:    `2`
 ### Wounds
-Max     `14`    Current     `3`
-
+Max     `14`    Current     `2`
